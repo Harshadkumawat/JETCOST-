@@ -255,6 +255,7 @@ h6 span {
   color: rgb(252, 250, 250);
   font-weight: 900;
   padding: 1px;
+  /* box-shadow: rgba(27, 13, 13, 7) 0px -40px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset; */
 }
 
 .box3 h6{
@@ -263,7 +264,7 @@ h6 span {
   align-items:end;
   color: rgb(252, 250, 250);
   font-weight: 900;
-  padding: 1px;
+  /* padding: 1px;    box-shadow: rgba(27, 13, 13, 7) 0px -40px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset; */
 }
 
 .box2:nth-child(2) {
